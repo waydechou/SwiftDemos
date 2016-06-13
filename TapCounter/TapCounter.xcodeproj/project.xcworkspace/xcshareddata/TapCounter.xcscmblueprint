@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EFBD2554B263158176A445A6010BFE1D4F5C613F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE" : 0,
+    "EFBD2554B263158176A445A6010BFE1D4F5C613F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E03A617A-705F-4235-A44B-CFDFF0EA5A4C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE" : "",
+    "EFBD2554B263158176A445A6010BFE1D4F5C613F" : "SwiftDemos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TapCounter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TapCounter\/TapCounter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/waydechou\/MarsMock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/waydechou\/SwiftDemos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFBD2554B263158176A445A6010BFE1D4F5C613F"
+    }
+  ]
+}
